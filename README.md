@@ -1,2 +1,2 @@
-# nowy_projekt3010232
-This is Mój super nowy projekt
+# gradle_template
+This is testow2o12345
